@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const fs = require('fs');
 
 const bot = new Discord.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
-const token = 'NzExMTQ2Mzc1Njc2NDI4MzM4.XsALzA.RTyiQ0_qexc_e_WXPi02LDDiRaI';
+const token = '';
 
 const red = '#B20000';
 const green = '#007300';
